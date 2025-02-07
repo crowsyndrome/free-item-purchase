@@ -19,7 +19,7 @@ An automated Python script that helps you collect all available free items from 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/netpwned/free-item-purchase.git
+git clone https://github.com/crowsyndrome/free-item-purchase.git
 cd free-item-purchase
 ```
 
